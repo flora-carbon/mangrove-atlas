@@ -1,0 +1,8 @@
+Flora Mangrove Atlas
+Copyright 2026 Flora Carbon AI
+
+This product includes software developed at Flora Carbon AI (https://floracarbon.ai).
+
+Data shown by this software is NOT covered by the Apache License. Each dataset
+keeps its own licence and citation requirements; see src/lib/datasets.ts and the
+/methods page. Most are CC BY 4.0 and require attribution.
